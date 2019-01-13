@@ -1,18 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" group-title="FRANCA",TF1 (Copyright © 2018 by TeamBlue)
 https://sv7.data-stream.top/8ae6affedac67647f8105200e8ce4b709c101d742b05695b31bcc7b7d913ebe3/hls/tf3-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" group-title="FRANCA",FRANCE 2 (Copyright © 2018 by TeamBlue)
-http://77.134.143.101:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE5.png" group-title="FRANCA",FRANCE 5 (Copyright © 2018 by TeamBlue)
-http://77.134.143.101:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE4.png" group-title="FRANCA",FRANCE 4 (Copyright © 2018 by TeamBlue)
-http://77.134.143.101:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCEO.png" group-title="FRANCA",FRANCE Ô (Copyright © 2018 by TeamBlue)
-http://77.134.143.101:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LEQUIPE.png" group-title="FRANCA",L'EQUIPE 21 (Copyright © 2018 by TeamBlue)
-http://ec.playmedia.fr/lequipe21/live/chunklist_w811887822.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SPORT.png" group-title="FRANCA",CANAL+ SPORT (Copyright © 2018 by TeamBlue)
-https://livebar.pw/lba/123/g10/plcanalplus.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" group-title="FRANCA",NAT GEO CH (Copyright © 2018 by TeamBlue)
 https://sv4.data-stream.top/8ae6affedac67647f8105200e8ce4b709c101d742b05695b31bcc7b7d913ebe3/hls/natgeo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" group-title="FRANCA",MTV HITS (Copyright © 2018 by TeamBlue)
