@@ -14,7 +14,7 @@ http://ec.playmedia.fr/lequipe21/live/chunklist_w811887822.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SPORT.png" group-title="FRANCA",CANAL+ SPORT (Copyright © 2018 by TeamBlue)
 https://livebar.pw/lba/123/g10/plcanalplus.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" group-title="FRANCA",NAT GEO CH (Copyright © 2018 by TeamBlue)
-https://lhr-2.firstonetv.net:4434/hls/655c09f9884e4411eeffc01127d910ce/1543945888/7b226e6f7473223a66616c73657d/687474703a2f2f6e63646e2d73722e6164616d2e7366722e66722f6970686f6e652f6e6174696f6e616c5f67656f677261706869635f323030303030302f6e6174696f6e616c5f67656f677261706869632e6d337538.m3u8
+https://sv4.data-stream.top/8ae6affedac67647f8105200e8ce4b709c101d742b05695b31bcc7b7d913ebe3/hls/natgeo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" group-title="FRANCA",MTV HITS (Copyright © 2018 by TeamBlue)
 http://209.91.213.10:8000/play/a00z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACETROPICAL.png" group-title="FRANCA",TRACE TROPICAL (Copyright © 2018 by TeamBlue)
